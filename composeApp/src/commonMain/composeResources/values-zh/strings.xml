@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moji 离线</string>
+    <string name="tab_history">历史</string>
+    <string name="tab_settings">设置</string>
+    <string name="history_title">查询历史</string>
+    <string name="history_empty_title">还没有查询记录</string>
+    <string name="history_empty_body">离线查询历史会显示在这里。可以先添加演示词条体验流程。</string>
+    <string name="history_error_title">无法加载历史</string>
+    <string name="history_error_body">本地存储失败，或已开启错误模拟。请重试，或在设置中关闭调试开关。</string>
+    <string name="action_retry">重试</string>
+    <string name="action_add_demo">添加演示词条</string>
+    <string name="action_clear_all">清空全部</string>
+    <string name="action_delete">删除</string>
+    <string name="action_close">关闭</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_language">语言</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_debug">调试</string>
+    <string name="settings_force_error">模拟历史错误</string>
+    <string name="settings_force_error_body">强制历史页进入错误状态，方便面试时演示空态/错态。</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_about_body">第一期演示：参考 MOJi 词典历史体验的离线查询记录。无账号，无会员限制。</string>
+    <string name="language_system">跟随系统</string>
+    <string name="language_zh">中文</string>
+    <string name="language_en">English</string>
+    <string name="language_ja">日本語</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="details_reading">读音</string>
+    <string name="details_meaning">释义</string>
+</resources>

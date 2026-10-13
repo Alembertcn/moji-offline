@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moji Offline</string>
+    <string name="tab_history">履歴</string>
+    <string name="tab_settings">設定</string>
+    <string name="history_title">検索履歴</string>
+    <string name="history_empty_title">履歴はまだありません</string>
+    <string name="history_empty_body">オフラインの検索履歴がここに表示されます。デモ項目を追加して流れを確認できます。</string>
+    <string name="history_error_title">履歴を読み込めません</string>
+    <string name="history_error_body">ローカル保存に失敗したか、エラー模擬がオンです。再試行するか、設定でデバッグ切替をオフにしてください。</string>
+    <string name="action_retry">再試行</string>
+    <string name="action_add_demo">デモ項目を追加</string>
+    <string name="action_clear_all">すべて削除</string>
+    <string name="action_delete">削除</string>
+    <string name="action_close">閉じる</string>
+    <string name="settings_title">設定</string>
+    <string name="settings_language">言語</string>
+    <string name="settings_theme">テーマ</string>
+    <string name="settings_debug">デバッグ</string>
+    <string name="settings_force_error">履歴エラーを模擬</string>
+    <string name="settings_force_error_body">履歴画面をエラー状態にし、面接で空状態/エラー状態を見せやすくします。</string>
+    <string name="settings_about">このアプリについて</string>
+    <string name="settings_about_body">フェーズ1デモ：MOJi辞書の履歴UXを参考にしたオフライン検索履歴。アカウントなし。会員制限なし。</string>
+    <string name="language_system">システム</string>
+    <string name="language_zh">中文</string>
+    <string name="language_en">English</string>
+    <string name="language_ja">日本語</string>
+    <string name="theme_system">システム</string>
+    <string name="theme_light">ライト</string>
+    <string name="theme_dark">ダーク</string>
+    <string name="details_reading">読み</string>
+    <string name="details_meaning">意味</string>
+</resources>
